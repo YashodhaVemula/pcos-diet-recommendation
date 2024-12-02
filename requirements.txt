@@ -1,6 +1,0 @@
-joblib
-pandas
-requests
-scikit-learn
-streamlit
-numpy
