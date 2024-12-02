@@ -1,2 +1,5 @@
 ﻿joblib
 scikit-learn
+sklearn.ensemble 
+sklearn.multioutput 
+sklearn.model_selection 
