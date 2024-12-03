@@ -1,5 +1,7 @@
 ﻿joblib
 scikit-learn
-sklearn.ensemble 
-sklearn.multioutput 
-sklearn.model_selection 
+requests
+pandas
+numpy
+streamlit
+
